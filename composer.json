@@ -53,7 +53,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Pages\\": "src/Pages/src/"
+            "Pages\\": "src/"
         }
     },
     "scripts": {
